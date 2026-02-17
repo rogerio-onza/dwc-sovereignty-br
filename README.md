@@ -59,6 +59,10 @@ install.packages(c("readxl", "dplyr", "stringr", "tidyr", "purrr", "writexl"))
 3. Abra o script principal na pasta R/, ajuste os caminhos dos arquivos se necessário.
 4. Execute o pipeline para gerar o dataset padronizado e a planilha de auditoria na pasta outputs/.
 
+## Artigos repatriados
+
+1. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3128)
+
 ## 🤝 Contribuindo
 
 Contribuições que fortaleçam as ferramentas de soberania e padronização de dados são muito bem-vindas! 
@@ -76,5 +80,7 @@ Distribuído sob a licença CC-BY-NC (Attribution-NonCommercial). Consulte o arq
 ## ✍️ Autor e Contato
 
 **Rogerio Nunes Oliveira**
+
 Pesquisa, Modelagem Ecológica e Ciência de Dados para Biodiversidade
+
 GitHub: [@rogerio-onza](https://github.com/rogerio-onza)
