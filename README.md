@@ -31,7 +31,7 @@ O fluxo de trabalho foi desenhado para lidar com as complexidades reais dos dado
 dwc-sovereignty-br/
 ├── 📜 README.md
 ├── 📁 R/                            # Scripts principais do fluxo de trabalho
-│   └── 📄 neotropical_carnivores_dwc.R     # Script de extração e padronização
+│   └── 📄 neotropical_carnivores_dwc.R  # 1
 
 ```
 
