@@ -1,4 +1,4 @@
-# 🇧🇷 DarwinCore Repatriação - Estudos Brasileiros
+# 🇧🇷 DarwinCore  - Repatriação de Estudos Brasileiros
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Darwin Core](https://img.shields.io/badge/Darwin_Core-Standard-75B375?style=for-the-badge&logoColor=black)](#)
