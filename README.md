@@ -1,8 +1,10 @@
-# 🇧🇷 DarwinCore Repatriation - Brazilian Studies 
+# 🇧🇷 DarwinCore Repatriação - Estudos Brasileiros
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Darwin Core](https://img.shields.io/badge/Darwin_Core-Standard-brightgreen?style=for-the-badge)](#)
 [![Licença](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 
 **Ferramentas e fluxos de trabalho em R para padronização, validação e garantia da soberania de dados de biodiversidade.**
 
