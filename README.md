@@ -75,5 +75,6 @@ Distribuído sob a licença CC-BY-NC (Attribution-NonCommercial). Consulte o arq
 
 ## ✍️ Autor e Contato
 
-**Rogerio Nunes Oliveira** Pesquisa, Modelagem Ecológica e Ciência de Dados para Biodiversidade
+**Rogerio Nunes Oliveira**
+Pesquisa, Modelagem Ecológica e Ciência de Dados para Biodiversidade
 GitHub: [@rogerio-onza](https://github.com/rogerio-onza)
