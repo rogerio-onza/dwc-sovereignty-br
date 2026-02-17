@@ -59,7 +59,7 @@ install.packages(c("readxl", "dplyr", "stringr", "tidyr", "purrr", "writexl"))
 3. Abra o script principal na pasta R/, ajuste os caminhos dos arquivos se necessário.
 4. Execute o pipeline para gerar o dataset padronizado e a planilha de auditoria na pasta outputs/.
 
-## Artigos repatriados
+## 🔄 Artigos repatriados
 
 1. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3128)
 
