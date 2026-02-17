@@ -77,7 +77,7 @@ Contribuições que fortaleçam as ferramentas de soberania e padronização de 
 
 ## 📜 Licença
 
-Distribuído sob a licença CC-BY-NC (Attribution-NonCommercial). Consulte o arquivo LICENSE para mais informações.
+MIT
 
 ## ✍️ Autor e Contato
 
