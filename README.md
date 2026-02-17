@@ -4,7 +4,7 @@
 [![Darwin Core](https://img.shields.io/badge/Darwin_Core-Standard-75B375?style=for-the-badge&logoColor=black)](#)
 [![Licença](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Claude](https://img.shields.io/badge/AI_Assisted-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
-[![MiniMax](https://img.shields.io/badge/Optimized_by-MiniMax-E93A77?style=for-the-badge&logo=robot&logoColor=white)](#)
+[![MiniMax](https://img.shields.io/badge/Optimized_by-MiniMax-E73562?style=for-the-badge&logo=minimax&logoColor=white)](#)
 
 **Ferramentas e fluxos de trabalho em R para padronização, validação e garantia da soberania de dados de biodiversidade.**
 
