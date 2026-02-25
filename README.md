@@ -33,7 +33,7 @@ dwc-sovereignty-br/
 ├── 📜 README.md
 ├── 📁 R/                            # Scripts principais do fluxo de trabalho
 │   └── 📄 neotropical_carnivores_dwc.R  # 1
-    └── 📄 neotropical_carnivores_dwc.R  # 2
+    └── 📄 jaguar_movement_database_dwc.R  # 2
 
 ```
 
