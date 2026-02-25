@@ -33,6 +33,7 @@ dwc-sovereignty-br/
 ├── 📜 README.md
 ├── 📁 R/                            # Scripts principais do fluxo de trabalho
 │   └── 📄 neotropical_carnivores_dwc.R  # 1
+    └── 📄 neotropical_carnivores_dwc.R  # 2
 
 ```
 
@@ -63,6 +64,7 @@ install.packages(c("readxl", "dplyr", "stringr", "tidyr", "purrr", "writexl"))
 ## 🔄 Artigos repatriados
 
 1. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3128)
+2. [Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2379)
 
 ## 🤝 Contribuindo
 
