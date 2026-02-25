@@ -78,7 +78,7 @@ Contribuições que fortaleçam as ferramentas de soberania e padronização de 
 
 ## 📜 Licença
 
-MIT
+GPLv3
 
 ## ✍️ Autor e Contato
 
