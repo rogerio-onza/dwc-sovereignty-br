@@ -2,7 +2,7 @@
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Darwin Core](https://img.shields.io/badge/Darwin_Core-Standard-75B375?style=for-the-badge&logoColor=black)](#)
-[![Licença](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Licença](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Claude](https://img.shields.io/badge/AI_Assisted-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
 
 **Ferramentas e fluxos de trabalho em R para padronização, validação e garantia da soberania de dados de biodiversidade.**
